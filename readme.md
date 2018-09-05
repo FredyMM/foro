@@ -41,3 +41,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 # foro styde
+[ ![Codeship Status for FredyMM/foro](https://app.codeship.com/projects/f059b760-9346-0136-c211-7e12bd700140/status?branch=master)](https://app.codeship.com/projects/304483)
